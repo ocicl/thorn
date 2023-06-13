@@ -1,0 +1,10 @@
+* thorn
+
+Insert special characters into CommonDoc documents.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/thorn.git   |
+| commit  | 3e94454  |
+| systems | thorn |
+|---------+-------------------------------------------|
+
